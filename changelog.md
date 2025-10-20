@@ -1,3 +1,11 @@
+# v0.0.3 created by Pisitchai S.
+
+# remove .csv data
+
+- delete person dataset
+
+=======================================================
+
 # v0.0.2 created by Pisitchai S.
 
 # change .csv data
