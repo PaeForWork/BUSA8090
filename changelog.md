@@ -1,3 +1,10 @@
+# v0.0.4 created by Pisitchai S.
+
+- add new cleaned person dataset
+- cleaning vehicle dataset (in-process)
+
+=======================================================
+
 # v0.0.3 created by Pisitchai S.
 
 # remove .csv data
