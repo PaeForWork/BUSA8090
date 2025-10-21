@@ -1,3 +1,9 @@
+# v0.0.5 created by Pisitchai S.
+
+- cleaning vehicle dataset (in-process)
+
+=======================================================
+
 # v0.0.4 created by Pisitchai S.
 
 - add new cleaned person dataset
