@@ -1,3 +1,10 @@
+# v0.0.6 created by Pisitchai S.
+
+- cleaning vehicle dataset (in-process)
+- note some variable that I don't understand about its dummy code
+
+=======================================================
+
 # v0.0.5 created by Pisitchai S.
 
 - cleaning vehicle dataset (in-process)
