@@ -1,3 +1,9 @@
+# v0.0.7 created by Pisitchai S.
+
+- upload [cleaned_vehicle.csv] and ["cleaned_person.csv"]
+
+=======================================================
+
 # v0.0.6 created by Pisitchai S.
 
 - cleaning vehicle dataset (in-process)
