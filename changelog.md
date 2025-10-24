@@ -1,3 +1,9 @@
+# v0.0.10 created by Pisitchai S.
+
+- update data cleaning ["cleaned_person.csv"]
+
+=======================================================
+
 # v0.0.9 created by Pisitchai S.
 
 - update data cleaning ["cleaned_person.csv"]
